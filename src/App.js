@@ -1,5 +1,6 @@
 import {Component} from 'react';
 
+import logo from './ecommerce.png';
 import CardList from './components/card-list/card-list.component.jsx';
 import SearchBox from './components/search-box/search-box.component.jsx';
 import './App.css';
@@ -14,20 +15,14 @@ class App extends Component {
   }
 
   componentDidMount(){
-    fetch('https://selvisoftware.in/sst4/users',{
-      headers:{
-        "Access-Control-Allow-Origin":"*",
-        'Content-Type':'application/json',
-        'Access-Control-Allow-Credentials': 'true'
-      }
-    })
+    fetch('https://selvisoftware.in/sst4/users')
     .then((response) => response.json())
-    .then((users) => console.log(users)
-      /*this.setState(
+    .then((users) => 
+      this.setState(
         () => {
           return {ecommrce: users};
         }
-      )*/
+      )
     );
   }
   OnsearchEngine = (e) => {
