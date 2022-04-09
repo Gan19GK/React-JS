@@ -15,7 +15,7 @@ class App extends Component {
   }
 
   componentDidMount(){
-    fetch('https://selvisoftware.in/sst4/users')
+    fetch('/users')
     .then((response) => response.json())
     .then((users) => 
       this.setState(
