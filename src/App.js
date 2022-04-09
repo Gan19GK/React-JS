@@ -1,6 +1,5 @@
 import {Component} from 'react';
 
-import logo from './ecommerce.png';
 import CardList from './components/card-list/card-list.component.jsx';
 import SearchBox from './components/search-box/search-box.component.jsx';
 import './App.css';
