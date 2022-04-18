@@ -1,4 +1,3 @@
-import { useState,useEffect } from 'react';
 import './card-list.css';
 import './card-list-img.jsx';
 

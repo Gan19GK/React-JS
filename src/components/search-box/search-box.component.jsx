@@ -1,4 +1,4 @@
-import { useState,useEffect } from 'react';
+
 import './search-box.css';
 
 const SearchBox = (props) => {
