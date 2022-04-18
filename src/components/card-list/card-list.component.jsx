@@ -7,7 +7,7 @@ const CardList = (props) => {
 		<div className={parentclass}>
 			{ecommrce.map((eco) => (
 				<div className={className}>
-					<img src={eco.profile} />
+					<img alt="Members" src={eco.profile} />
 					<h3 key={eco.id}>{eco.name}</h3>
 					<p>{eco.bio}</p>
 				</div>
