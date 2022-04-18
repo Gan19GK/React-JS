@@ -4,11 +4,11 @@ const CardList = (props) => {
 	const {ecommrce,parentclass,className} = props;
 	return(
 		<div className={parentclass}>
-			{ecommrce.map((eco) => (
+			{ecommrce.map((item,index) => (
 				<div className={className}>
-					<img alt="Members" src={eco.profile} />
-					<h3 key={eco.id}>{eco.name}</h3>
-					<p>{eco.bio}</p>
+					<img alt="Members" src={item.profile} />
+					<h3 key={item.id}>{item.name}</h3>
+					<p>{item.bio}</p>
 				</div>
 				)
 			)}
