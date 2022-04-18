@@ -1,21 +1,21 @@
-import { Component } from 'react';
+import { useState,useEffect } from 'react';
+import './card-list.css';
+import './card-list-img.jsx';
 
-class CardList extends Component{
-
-	render() {
-		const {ecommrce,parentclass,className} = this.props;
-		return (
-			<div className={parentclass}>
+const CardList = (props) => {
+	const {ecommrce,parentclass,className} = props;
+	return(
+		<div className={parentclass}>
 			{ecommrce.map((eco) => (
 				<div className={className}>
+					<img src={eco.profile} />
 					<h3 key={eco.id}>{eco.name}</h3>
-					<h4 key={eco.name}>{eco.email}</h4>
+					<p>{eco.bio}</p>
 				</div>
 				)
 			)}
-			</div>
-		);
-	}
+		</div>
+	);
 }
 
 export default CardList;

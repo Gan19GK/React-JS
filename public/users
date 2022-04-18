@@ -2,36 +2,55 @@
   {
     "id": 1,
     "name": "Ganesh Kumar",
-    "email": "ganesh@ribleridersclub.com"
+    "bio": "Take memories, leave footprints..",
+    "profile": "./img/1.png"
   },
   {
     "id": 2,
     "name": "Balaji",
-    "email": "balaji@ribleridersclub.com"
+    "bio": "Life is not meant to be in one place.",
+    "profile": "./img/2.png"
   },
   {
     "id": 3,
     "name": "Karthi",
-    "email": "karthi@ribleridersclub.com"
+    "bio": "Keep calm and travel on.",
+    "profile": "./img/3.png"
   },
   {
     "id": 4,
-    "name": "Ranjith",
-    "email": "ranjith@ribleridersclub.com"
+    "name": "Janakiraman",
+    "bio": "The best things happen outside of our comfort zones.",
+    "profile": "./img/4.png"
   },
   {
     "id": 5,
-    "name": "Kutty",
-    "email": "kutty@ribleridersclub.com"
+    "name": "Thaju Dhin",
+    "bio": "Only going places that spark joy.",
+    "profile": "./img/5.png"
   },
   {
     "id": 6,
     "name": "Dharani",
-    "email": "dharani@ribleridersclub.com"
+    "bio": "I’ve found my happy place in adventure.",
+    "profile": "./img/6.png"
   },
   {
     "id": 7,
     "name": "Diwakar",
-    "email": "diwakar@ribleridersclub.com"
+    "bio": "Keep calm and travel on.",
+    "profile": "./img/7.png"
+  },
+  {
+    "id": 8,
+    "name": "Karthivasan",
+    "bio": "Constantly searching for views that take my breath away.",
+    "profile": "./img/8.png"
+  },
+  {
+    "id": 9,
+    "name": "Lokesh",
+    "bio": "When I’m exploring the world is when I feel most at home.",
+    "profile": "./img/9.png"
   }
 ]
