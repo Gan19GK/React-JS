@@ -1,5 +1,4 @@
 import './card-list.css';
-import './card-list-img.jsx';
 
 const CardList = (props) => {
 	const {ecommrce,parentclass,className} = props;

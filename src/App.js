@@ -34,7 +34,7 @@ const App = () => {
   return(
     <div className='App'>
       <header className='App-header'>
-        <h1 className='title-home'>GK tech Members</h1>
+        <img alt="Logo" src="./img/logo.png" width="300"/>
         <SearchBox 
           onChangeHandler={OnsearchEngine} 
           placeholder='Search Members...'

@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Ganesh Kumar",
-    "bio": "Take memories, leave footprints..",
+    "name": "Balaji",
+    "bio": "Life is not meant to be in one place.",
     "profile": "./img/1.png"
   },
   {
     "id": 2,
-    "name": "Balaji",
-    "bio": "Life is not meant to be in one place.",
+    "name": "Karthivasan",
+    "bio": "Constantly searching for views that take my breath away.",
     "profile": "./img/2.png"
   },
   {
@@ -19,38 +19,38 @@
   },
   {
     "id": 4,
-    "name": "Janakiraman",
-    "bio": "The best things happen outside of our comfort zones.",
+    "name": "Lokesh",
+    "bio": "When I’m exploring the world is when I feel most at home.",
     "profile": "./img/4.png"
   },
   {
     "id": 5,
-    "name": "Thaju Dhin",
-    "bio": "Only going places that spark joy.",
+    "name": "Dharani",
+    "bio": "I’ve found my happy place in adventure.",
     "profile": "./img/5.png"
   },
   {
     "id": 6,
-    "name": "Dharani",
-    "bio": "I’ve found my happy place in adventure.",
+    "name": "Ganesh Kumar",
+    "bio": "Take memories, leave footprints..",
     "profile": "./img/6.png"
   },
   {
     "id": 7,
-    "name": "Diwakar",
-    "bio": "Keep calm and travel on.",
+    "name": "Janakiraman",
+    "bio": "The best things happen outside of our comfort zones.",
     "profile": "./img/7.png"
   },
   {
     "id": 8,
-    "name": "Karthivasan",
-    "bio": "Constantly searching for views that take my breath away.",
+    "name": "Thaju Dhin",
+    "bio": "Only going places that spark joy.",
     "profile": "./img/8.png"
   },
   {
     "id": 9,
-    "name": "Lokesh",
-    "bio": "When I’m exploring the world is when I feel most at home.",
+    "name": "Diwakar",
+    "bio": "Keep calm and travel on.",
     "profile": "./img/9.png"
   }
 ]

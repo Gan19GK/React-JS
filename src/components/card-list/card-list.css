@@ -2,7 +2,7 @@
 
 /* Card List */
 .card-list{display: flex;flex-wrap: wrap;width: 85%;margin: 20px 0;}
-.card-list-child{width: 28%;padding: 40px 0; border: 1px solid #FFFFFF;box-shadow: 0 2px 6px 0 #d1d1d1;background: #FFFFFF;border-radius: 20px;color: #000;text-align: center;margin: 15px 10px;padding: 20px;}
+.card-list-child{width: 27%;padding: 40px 0; border: 1px solid #FFFFFF;box-shadow: 0 2px 6px 0 #d1d1d1;background: #FFFFFF;border-radius: 20px;color: #000;text-align: center;margin: 15px 10px;padding: 20px;}
 .card-list-child h3{font-family: 'PT Sans', sans-serif;font-size: 24px;font-weight: 600;margin-bottom: 5px;background: -webkit-linear-gradient(285deg,#EE3324,#EE3324,#0B1320,#0B1320);-webkit-background-clip: text;background-clip: text;-webkit-text-fill-color: transparent;}
 .card-list-child img{width: 150px;height: 150px;object-fit: cover;border-radius: 50%;}
 .card-list-child p{font-size: 15px;font-style: italic;}
