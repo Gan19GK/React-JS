@@ -7,7 +7,7 @@
 .card-list-child img{width: 150px;height: 150px;object-fit: cover;border-radius: 50%;}
 .card-list-child p{font-size: 15px;font-style: italic;}
 .card-list-child .social-list{display: flex;justify-content: center;}
-.card-list-child .social-icon{width: 80px;height: 80px;}
+.card-list-child .social-icon{width: 50px;height: 50px;}
 @media only screen and (max-width: 544px) {
 	.card-list-child{width: 100%;margin: 10px;}
 }
