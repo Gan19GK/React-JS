@@ -1,56 +1,82 @@
 [
   {
+    "id": 10,
+    "name": "Parthiban",
+    "bio": "Travel is the only thing you buy that makes you richer.",
+    "profile": "./img/10.png",
+    "instagram": "https://instagram.com/parthiv3105?igshid=YmMyMTA2M2Y=",
+    "facebook": "https://www.facebook.com/profile.php?id=100008082616268"
+  },
+  {
     "id": 1,
     "name": "Balaji",
     "bio": "Life is not meant to be in one place.",
-    "profile": "./img/1.png"
+    "profile": "./img/1.png",
+    "instagram": "https://instagram.com/balaveera12?igshid=YmMyMTA2M2Y=",
+    "facebook": "https://www.facebook.com/bala.veera.94"
   },
   {
     "id": 2,
     "name": "Karthivasan",
     "bio": "Constantly searching for views that take my breath away.",
-    "profile": "./img/2.png"
+    "profile": "./img/2.png",
+    "instagram": "https://instagram.com/karthi_vasan?igshid=YmMyMTA2M2Y=",
+    "facebook": "https://www.facebook.com/karthi.vasan2"
   },
   {
     "id": 3,
     "name": "Karthi",
     "bio": "Keep calm and travel on.",
-    "profile": "./img/3.png"
+    "profile": "./img/3.png",
+    "instagram": "https://instagram.com/app_ulka_rth_ick?igshid=YmMyMTA2M2Y=",
+    "facebook": "https://www.facebook.com/appul.karthick"
   },
   {
     "id": 4,
     "name": "Lokesh",
     "bio": "When I’m exploring the world is when I feel most at home.",
-    "profile": "./img/4.png"
+    "profile": "./img/4.png",
+    "instagram": "https://instagram.com/shadow_of_love3001?igshid=YmMyMTA2M2Y=",
+    "facebook": "https://www.facebook.com/lokesh.killerz  "
   },
   {
     "id": 5,
     "name": "Dharani",
     "bio": "I’ve found my happy place in adventure.",
-    "profile": "./img/5.png"
+    "profile": "./img/5.png",
+    "instagram": "https://instagram.com/dharanidhrn7?igshid=YmMyMTA2M2Y=",
+    "facebook": "https://www.facebook.com/dharani.dharan.1848"
   },
   {
     "id": 6,
     "name": "Ganesh Kumar",
     "bio": "Take memories, leave footprints..",
-    "profile": "./img/6.png"
+    "profile": "./img/6.png",
+    "instagram": "",
+    "facebook": "https://www.facebook.com/profile.php?id=100071788975292"
   },
   {
     "id": 7,
     "name": "Janakiraman",
     "bio": "The best things happen outside of our comfort zones.",
-    "profile": "./img/7.png"
+    "profile": "./img/7.png",
+    "instagram": "",
+    "facebook": "https://www.facebook.com/simbapa.ranjith"
   },
   {
     "id": 8,
     "name": "Thaju Dhin",
     "bio": "Only going places that spark joy.",
-    "profile": "./img/8.png"
+    "profile": "./img/8.png",
+    "instagram": "https://instagram.com/02._.pluss._.05?igshid=YmMyMTA2M2Y=",
+    "facebook": "https://www.facebook.com/thaju.dhin.104"
   },
   {
     "id": 9,
     "name": "Diwakar",
     "bio": "Keep calm and travel on.",
-    "profile": "./img/9.png"
+    "profile": "./img/9.png",
+    "instagram": "https://instagram.com/mr.royal55?igshid=YmMyMTA2M2Y=",
+    "facebook": "https://www.facebook.com/profile.php?id=100008503601703"
   }
 ]
